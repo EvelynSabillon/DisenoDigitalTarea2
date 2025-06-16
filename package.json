@@ -1,7 +1,7 @@
 {
-  "name": "api-tienda",
+  "name": "api-productos",
   "version": "1.0.0",
-  "description": "tarea2.1 - API para gestionar una tienda de productos",
+  "description": "tarea2.1 - API RESTful para gestionar una tienda de productos usando Node.js y Express",
   "main": "index.js",
   "type": "module",
   "scripts": {
