@@ -1,0 +1,24 @@
+{
+  "name": "api-tienda",
+  "version": "1.0.0",
+  "description": "tarea2.1 - API para gestionar una tienda de productos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvelynSabillon/DisenoDigitalTarea2.git"
+  },
+  "author": "Evelyn-Sabillon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvelynSabillon/DisenoDigitalTarea2/issues"
+  },
+  "homepage": "https://github.com/EvelynSabillon/DisenoDigitalTarea2#readme",
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
