@@ -1,0 +1,31 @@
+### Devolver todas los productos
+GET http://localhost:3000/productos
+
+### Devolver un producto por su ID
+GET http://localhost:3000/productos/10008
+
+
+### Crear un nuevo producto
+POST http://localhost:3000/productos
+Content-Type: application/json
+
+{
+  
+}
+
+### Actualizar un producto por su ID
+PUT http://localhost:3000/productos/123
+Content-Type: application/json
+
+{
+  
+}
+
+
+### Eliminar un producto por su ID
+DELETE http://localhost:3000/productos/123
+
+
+
+### Devolver solo los productos disponibles
+GET http://localhost:3000/productos/disponibles
