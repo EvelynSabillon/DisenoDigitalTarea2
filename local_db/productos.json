@@ -1,83 +1,74 @@
 [
-    {
-        "id": 10000,
-        "nombre": "Refresco de Naranja 500ml",
-        "precio": 15.50,
-        "descripcion": "Refresco de naranja con gas, botella de 500ml",
-        "disponible": true,
-        "fecha_ingreso": "10-08-2025 12:00:00"
-    },
-    {
-        "id": 10001,
-        "nombre": "Galletas de Chocolate 200g",
-        "precio": 8.99,
-        "descripcion": "Deliciosas galletas de chocolate, paquete de 200g",
-        "disponible": true,
-        "fecha_ingreso": "12-08-2025 14:30:00"
-    },
-    {
-        "id": 10002,
-        "nombre": "Agua Mineral 1.5L",
-        "precio": 10.00,
-        "descripcion": "Botella de agua mineral natural, 1.5 litros",
-        "disponible": false,
-        "fecha_ingreso": "15-08-2025 09:00:00"
-    },
-    {
-        "id": 10003,
-        "nombre": "Barra de Pan Integral",
-        "precio": 3.50,
-        "descripcion": "Barra de pan integral fresco, peso aproximado 400g",
-        "disponible": true,
-        "fecha_ingreso": "16-08-2025 11:15:00"
-    },
-    {
-        "id": 10004,
-        "nombre": "Leche Deslactosada 1L",
-        "precio": 12.00,
-        "descripcion": "Leche deslactosada, envase de 1 litro",
-        "disponible": true,
-        "fecha_ingreso": "18-08-2025 08:45:00"
-    },
-    {
-        "id": 10005,
-        "nombre": "Cereal Integral con Frutas 500g",
-        "precio": 20.00,
-        "descripcion": "Cereal integral con trozos de frutas, paquete de 500g",
-        "disponible": true,
-        "fecha_ingreso": "20-08-2025 10:30:00"
-    },
-    {
-        "id": 10006,
-        "nombre": "Yogur Natural 400g",
-        "precio": 7.50,
-        "descripcion": "Yogur natural sin azúcares añadidos, envase de 400g",
-        "disponible": false,
-        "fecha_ingreso": "22-08-2025 13:00:00"
-    },
-    {
-        "id": 10007,
-        "nombre": "Pasta Integral 500g",
-        "precio": 18.00,
-        "descripcion": "Pasta integral de trigo, paquete de 500g",
-        "disponible": true,
-        "fecha_ingreso": "25-08-2025 15:30:00"
-    },
-    {
-        "id": 10008,
-        "nombre": "Salsa de Tomate Orgánica 250g",
-        "precio": 5.75,
-        "descripcion": "Salsa de tomate orgánica, frasco de 250g",
-        "disponible": true,
-        "fecha_ingreso": "27-08-2025 17:00:00"
-    },
-    {
-        "id": 10009,
-        "nombre": "Té Verde Orgánico 20 Bolsitas",
-        "precio": 9.99,
-        "descripcion": "Té verde orgánico en bolsitas, caja de 20 unidades",
-        "disponible": true,
-        "fecha_ingreso": "29-08-2025 19:15:00"
-    }
-
+  {
+    "id": 10000,
+    "nombre": "Café molido",
+    "precio": 12.5,
+    "descripcion": "Café molido de origen colombiano, bolsa de 500g",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-21T17:24:05.048Z"
+  },
+  {
+    "id": 10001,
+    "nombre": "Leche entera",
+    "precio": 12,
+    "descripcion": "Leche entera fresca, botella de 1L",
+    "disponible": false,
+    "fecha_ingreso": "2025-06-21T17:24:05.048Z"
+  },
+  {
+    "id": 10002,
+    "nombre": "Pan integral",
+    "precio": 8.5,
+    "descripcion": "Pan integral recién horneado, paquete de 500g",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-21T17:24:05.048Z"
+  },
+  {
+    "id": 10003,
+    "nombre": "Arroz blanco",
+    "precio": 10,
+    "descripcion": "Arroz blanco de grano largo, bolsa de 1kg",
+    "disponible": false,
+    "fecha_ingreso": "2025-06-21T17:24:05.048Z"
+  },
+  {
+    "id": 10004,
+    "nombre": "Azúcar moreno",
+    "precio": 6,
+    "descripcion": "Azúcar moreno orgánico, bolsa de 500g",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-21T17:24:05.048Z"
+  },
+  {
+    "id": 10005,
+    "nombre": "Aceite de oliva",
+    "precio": 25,
+    "descripcion": "Aceite de oliva virgen extra, botella de 500ml",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-21T17:24:05.048Z"
+  },
+  {
+    "id": 10006,
+    "nombre": "Pasta integral",
+    "precio": 7.5,
+    "descripcion": "Pasta integral orgánica, paquete de 500g",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-21T17:24:05.048Z"
+  },
+  {
+    "id": 10007,
+    "nombre": "Galletas de chocolate",
+    "precio": 5.99,
+    "descripcion": "Galletas de chocolate con trozos de chocolate, paquete de 200g",
+    "disponible": false,
+    "fecha_ingreso": "2025-06-21T22:31:14.410Z"
+  },
+  {
+    "id": 10008,
+    "nombre": "Refresco de mora natural",
+    "precio": 12.5,
+    "descripcion": "Refresco de mora natural, lata de 330ml",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-21T22:51:59.732Z"
+  }
 ]

@@ -2,29 +2,55 @@
 GET http://localhost:3000/productos
 
 ### Devolver un producto por su ID
-GET http://localhost:3000/productos/10008
+GET http://localhost:3000/productos/10000
 
 
 ### Crear un nuevo producto
 POST http://localhost:3000/productos
 Content-Type: application/json
 
+# {
+#     "nombre": "Pringles Original Sabor",
+#     "precio": 15.99,
+#     "descripcion": "Patatas fritas envasadas con sabor original, lata de 200g",
+#     "disponible": true
+# }
+
+# {
+#     "nombre": "Galletas de chocolate",
+#     "precio": "5.99",
+#     "descripcion": "Galletas de chocolate con trozos de chocolate, paquete de 200g",
+#     "disponible": "true"
+# }
+
+# {
+#     "nombre": "Café molido",
+#     "precio": 12.50,
+#     "descripcion": "Café molido de origen colombiano, bolsa de 250g"
+# }
+
 {
-  
+    "nombre": "Refresco de mora natural",
+    "precio": 12.50,
+    "descripcion": "Refresco de mora natural, lata de 330ml",
+    "disponible": true
 }
 
+
 ### Actualizar un producto por su ID
-PUT http://localhost:3000/productos/123
+PUT http://localhost:3000/productos/10000
 Content-Type: application/json
 
 {
-  
+    "nombre": "Café molido",
+    "precio": 12.50,
+    "descripcion": "Café molido de origen colombiano, bolsa de 500g",
+    "disponible": true
 }
 
 
 ### Eliminar un producto por su ID
-DELETE http://localhost:3000/productos/123
-
+DELETE http://localhost:3000/productos/10008
 
 
 ### Devolver solo los productos disponibles
